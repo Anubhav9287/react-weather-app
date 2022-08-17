@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Create Current and Forecast Weather app in React JS
 
 This project was developed for weather application.<br>
 This will show current weather and forcast.<br>
