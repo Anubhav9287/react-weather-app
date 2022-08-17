@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed for weather application.
+This will show current weather and forcast.
+This uses opensource APIs.
+APIs Used:
+💻 OpenWeather API: https://openweathermap.org/
+💻 GeoDB Cities API: https://rapidapi.com/wirefreethought/
+
 
 ## Available Scripts
 
